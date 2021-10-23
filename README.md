@@ -1,6 +1,7 @@
 # JobScheduler
 Java API to schedule and cancel jobs
 
+# Fixed few bugs
 
 Spring Boot Application when started will run two scheduled jobs
 task1
